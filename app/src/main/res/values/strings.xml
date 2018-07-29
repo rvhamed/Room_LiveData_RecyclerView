@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomLiveData</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert">INSERT</string>
+    <string name="delete">DELETE</string>
+    <string name="name">enter name</string>
+    <string name="family">enter family</string>
+
+
+</resources>
