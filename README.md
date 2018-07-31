@@ -1,9 +1,9 @@
-RecyclerView with Room, LiveData and ViewModel 
-just for tutorial
-aparat link :
+RecyclerView with Room, LiveData and ViewModel </br>
+just for tutorial</br></br>
+aparat link :</br>
 https://www.aparat.com/v/PoEL8
-
+</br>
 http://t.me/hamedrahimvand
-
-hamed.rahimvand@yahoo.com 
+</br>
+hamed.rahimvand@yahoo.com </br>
 09199823352
