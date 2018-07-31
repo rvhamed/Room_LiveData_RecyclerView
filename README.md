@@ -1,5 +1,5 @@
 RecyclerView with Room, LiveData and ViewModel 
-
+just for tutorial
 aparat link :
 https://www.aparat.com/v/PoEL8
 
